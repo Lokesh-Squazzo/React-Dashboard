@@ -45,7 +45,7 @@ export default function App() {
               </tr>
             </tbody>
           </table>
-
+          {/* Hello everyone we are learning git */}
         </div>
       </div>
     </div>
